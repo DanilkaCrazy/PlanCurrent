@@ -1,4 +1,5 @@
 # Создание планировщика задач (Task-tracker) для управления проектами.
+![Screenshot_3](https://github.com/DanilkaCrazy/PlanCurrent/assets/95550202/8e12f439-98ef-4c90-83d2-6f8a5958eb0b)
 
 
 ## Цель проекта: 
