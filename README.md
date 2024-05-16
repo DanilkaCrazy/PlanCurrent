@@ -47,6 +47,9 @@ Task-tracker представляет собой веб-приложение д�
 
 ![Screenshot_2](https://github.com/DanilkaCrazy/Task-tracker/assets/95550202/3b695bd8-33fe-4aa3-866f-36d549a3974f)
 
+![Screenshot_1](https://github.com/DanilkaCrazy/PlanCurrent/assets/95550202/45ebcdc4-335d-4b93-b33b-8b229faed74c)
+
+
 ![Screenshot_3](https://github.com/DanilkaCrazy/Task-tracker/assets/95550202/6a72ac32-7cdc-4833-a87b-f3a96f2b5520)
 
 ### Заключение по сравнению аналогов:
